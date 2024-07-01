@@ -15,7 +15,7 @@ Ensure you have `curl` installed on your system to download the script.
      ```
 ## Minimum System Requirements: 
 
-***12 GB RAM
+12 GB RAM
 
 256 GB SSD
 
@@ -28,7 +28,7 @@ Download: Above 500 Mb/s
 
 Upload: Above 250 Mb/s
 
-Ping: Below 30ms**
+Ping: Below 30ms
 
 ### Installation
 
