@@ -30,7 +30,7 @@ Upload: Above 250 Mb/s
 
 Ping: Below 30ms
 
-### Installation
+## Installation
 
 1. **Download the setup script**:
 
