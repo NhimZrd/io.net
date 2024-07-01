@@ -2,7 +2,9 @@
 
 **io.net** — is a decentralized network of GPUs designed to provide unlimited computing power to machine learning (ML) applications. The project's mission is to democratize access to computing power by collecting over 1 million GPUs from independent data centers, crypto miners, and projects such as Filecoin and Render. By working with underutilized GPU sources outside of the cloud, io.net aims to solve the current cloud GPU power shortage and make computing more scalable, affordable, and efficient.
 
-#### Investments: $30 000 000.
+**Investments: $30 000 000.**
+
+**Investors: Multicoin Capital, Delphi Ventures, Animoca Brands, OKX Ventures, Solana Ventures and others.**
 
 ### Prerequisites
 
