@@ -13,7 +13,17 @@ Ensure you have `curl` installed on your system to download the script.
      ```
      sudo apt install curl
      ```
-     
+## Minimum System Requirements: 
+
+***12 GB RAM
+256 GB SSD
+Windows: NVIDIA GeForce RTX 30xx and above series / MacOS: Apple M1, M2, M3.
+Internet Speed (please use speedtest.net or a similar service to check your speed)
+To qualify for the airdrop, the minimum requirement is 100Mb/s download and 75Mb/s upload. However, for a higher chance of being hired, the recommended minimum requirements are:
+Download: Above 500 Mb/s
+Upload: Above 250 Mb/s
+Ping: Below 30ms***
+
 ### Installation
 
 1. **Download the setup script**:
