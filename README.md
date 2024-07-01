@@ -59,3 +59,4 @@ The `ionet-setup.sh` script performs a series of operations:
 Contributions to this script are welcome. Please ensure that any pull requests or issues are relevant to the script's functionality and compatibility.
 
 ### For a more in-depth look - https://docs.io.net/docs
+## Обязательно проведите собственный исследование проектов перед тем как ставить ноду. Помните, проводя свое изучение, Вы учитесь и развиваетесь.
